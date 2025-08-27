@@ -19,7 +19,6 @@ A lightweight Android library to render **3D-styled text** using **Jetpack Compo
 
 ## 🚀 Getting Started
 
-### Step 1. Add the JitPack repository  
 Add the JitPack repository to your **settings.gradle.kts** file:
 
 ```kotlin
@@ -32,11 +31,10 @@ dependencyResolutionManagement {
     }
 }
 
-### Step 2. Add the dependency
 
-Add the library dependency to your **app module's `build.gradle.kts`** file:
+Add the library dependency to your app module's `build.gradle.kts file:
 
-```kotlin
+kotlin
 dependencies {
     implementation("com.github.Jey-t20-gh:three-d-text:1.0.0")
 }
