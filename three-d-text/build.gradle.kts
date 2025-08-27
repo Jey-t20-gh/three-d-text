@@ -66,9 +66,9 @@ publishing {
         register<MavenPublication>("release") {
             afterEvaluate {
                 from(components["release"])
-                groupId = "com.github.Jey-t20-gh"
-                artifactId = "three-d-text-compose"
-                version = "1.0.0"
+//                groupId = "com.github.Jey-t20-gh"
+//                artifactId = "three-d-text-compose"
+//                version = "1.0.0"
             }
         }
     }
