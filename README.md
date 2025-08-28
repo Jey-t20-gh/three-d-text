@@ -32,7 +32,7 @@ dependencyResolutionManagement {
 }
 ```
 
-Add the library dependency to your app module's `build.gradle.kts file:
+Add the library dependency to your app module's **build.gradle.kts** file:
 
 ```
 kotlin
