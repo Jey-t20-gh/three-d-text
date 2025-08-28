@@ -30,10 +30,11 @@ dependencyResolutionManagement {
         maven { url = uri("https://jitpack.io") }
     }
 }
-
+```
 
 Add the library dependency to your app module's `build.gradle.kts file:
 
+```
 kotlin
 dependencies {
     implementation("com.github.Jey-t20-gh:three-d-text:1.0.0")
