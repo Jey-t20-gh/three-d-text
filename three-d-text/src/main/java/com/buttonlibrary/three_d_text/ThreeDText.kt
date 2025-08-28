@@ -86,26 +86,3 @@ fun ThreeDText(
             }
     )
 }
-
-//@Preview(showBackground = true)
-//@Composable
-//fun ThreeDTextPreview() {
-//    Column(
-//        modifier = Modifier.fillMaxSize(),
-//        horizontalAlignment = Alignment.CenterHorizontally,
-//        verticalArrangement = Arrangement.Center
-//    ) {
-//        // Example with default values
-//        ThreeDText(text = "SAMPLE TEXT")
-//
-//        // Example with custom colors
-//        ThreeDText(
-//            text = "SAMPLE TEXT",
-//            baseColor = Color(0xFFFFFFFF), // Deep purple
-//            depthColor = Color(0xFF000000), // Darker purple for depth
-//            shadowColor = Color(0xFF000000), // Even darker for shadow
-//            shadowOffset = Offset(12f, 15f),
-//            shadowBlurRadius = 12f
-//        )
-//    }
-//}
