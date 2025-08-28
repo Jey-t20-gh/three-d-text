@@ -39,5 +39,10 @@ kotlin
 dependencies {
     implementation("com.github.Jey-t20-gh:three-d-text:1.0.0")
 }
+'''
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
